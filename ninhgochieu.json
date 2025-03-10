@@ -1,0 +1,14 @@
+{
+  "description": "Documentation website for is-a.dev",
+  "repo": "https://github.com/is-a-dev/docs",
+  "owner": {
+    "username": "ninhngochieu",
+    "email": "ninhngochieu@gmail.com"
+  },
+  "record": {
+    "A":[
+      "185.44.64.205"
+    ]
+  },
+  "proxied": true
+}
